@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <link rel="ico" type="image/ico" href="favorito.ico">
+    <title>Document</title>
+    <link rel="stylesheet" href="inicio.css">
+
+  
+    <script>
+       
+    </script>
+</head>
+<body>
+    <a  class="link"  href=""> <b>ola mundo</b></a>
+
+</body>
+</html>
+cridor lucas mikas.
